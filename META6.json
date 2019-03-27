@@ -1,0 +1,35 @@
+{
+  "license": "Artistic-2.0",
+  "source-url": "https://github.com/gfldex/perl6-hard-tests.git",
+  "resources": [
+    
+  ],
+  "support": {
+    "source": null
+  },
+  "test-depends": [
+    
+  ],
+  "tags": [
+    
+  ],
+  "production": false,
+  "description": "",
+  "auth": "github:gfldex",
+  "name": "hard-tests",
+  "authors": [
+    "Wenzel P. P. Peppmeyer <wenzel.peppmeyer@gmx.de>"
+  ],
+  "depends": [
+    "Test::META"
+  ],
+  "build-depends": [
+    
+  ],
+  "version": "0.0.1",
+  "perl": "6.c",
+  "provides": {
+    
+  },
+  "meta-version": "0"
+}
