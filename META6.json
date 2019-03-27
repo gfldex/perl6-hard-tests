@@ -21,10 +21,11 @@
     "Wenzel P. P. Peppmeyer <wenzel.peppmeyer@gmx.de>"
   ],
   "depends": [
-    "Test::META"
+    "Test::META",
+    "WWW"
   ],
   "build-depends": [
-    
+
   ],
   "version": "0.0.1",
   "perl": "6.c",
